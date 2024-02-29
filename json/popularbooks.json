@@ -1,0 +1,31 @@
+[
+    {
+        "rating": "4.0",
+        "title": "FOOD FOR THOUGHT",
+        "text": "Iyabo Ojo",
+        "img": "ebook/a.PNG",
+        "bookimg": "ebook/w1.jpg"
+    },
+    {
+        "rating": "4.5",
+        "title": "PEACE LIFE ",
+        "text": "Martin Hyatt",
+        "img": "ebook/b.PNG",
+        "bookimg": "ebook/w2.jpg"
+    },
+    {
+        "rating": "5.0",
+        "title": "GO FOR GOLD",
+        "text": "Jason Stathon",
+        "img": "ebook/c.PNG",
+        "bookimg": "ebook/w3.jpg"        
+    },
+    {
+        "rating": "1.2",
+        "title": "LEADARIGHT",
+        "text": "Bola Tinubu",
+        "img": "ebook/d.PNG",
+        "bookimg": "ebook/w4.jpg"
+    }
+]
+
